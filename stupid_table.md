@@ -1,4 +1,4 @@
 | name | favorite color | favorite animal|
 |-----:|:--------------:|:---------------|
-| Klaus | green         | goat|
-| Alex | lilac          | whale |
+| Klaus | green         | goat
+| selome     |  blue |       dog  |
