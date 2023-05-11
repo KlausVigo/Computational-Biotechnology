@@ -2,3 +2,4 @@
 |-----:|:--------------:|:---------------|
 | Klaus | green         | goat|
 | Alex | lilac          | whale |
+| Niloofar | purple | dog |
