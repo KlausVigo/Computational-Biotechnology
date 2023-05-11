@@ -2,3 +2,4 @@
 |-----:|:--------------:|:---------------|
 | Klaus | green         | goat|
 | Alex | lilac          | whale |
+| Vanessa |blue | horse |
