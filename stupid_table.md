@@ -9,3 +9,4 @@
 | selome | red |cat|
 | Ilija | orange | bull |
 |Azra K| red | cat|
+| Paula | blue | dog |
