@@ -7,3 +7,4 @@
 |Azra | red | cat| 
 | Niloofar | purple | Dog |
 | selome | red |cat|
+| Ilija | orange | bull |
