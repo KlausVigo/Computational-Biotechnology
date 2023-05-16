@@ -1,0 +1,11 @@
+PASS	Basic Statistics	sample_2.fq.gz
+PASS	Per base sequence quality	sample_2.fq.gz
+PASS	Per tile sequence quality	sample_2.fq.gz
+PASS	Per sequence quality scores	sample_2.fq.gz
+FAIL	Per base sequence content	sample_2.fq.gz
+WARN	Per sequence GC content	sample_2.fq.gz
+PASS	Per base N content	sample_2.fq.gz
+PASS	Sequence Length Distribution	sample_2.fq.gz
+FAIL	Sequence Duplication Levels	sample_2.fq.gz
+WARN	Overrepresented sequences	sample_2.fq.gz
+PASS	Adapter Content	sample_2.fq.gz
