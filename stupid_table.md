@@ -3,7 +3,7 @@
 | Klaus   | green       | goat           |     | |
 | Alex    | lilac       | whale          |  blastp  | 26.5. |
 | Vanessa |blue         | horse          |  Transdecoder   | 26.5. |
-|Elena    | blue        | dog            |     |   |
+|Elena    | blue        | dog            |   FastQC  |  16.5.  |
 |Azra      | red        | cat            |  topGo  | 1.6. 	|
 | Niloofar | purple     | Dog            |   orthofinder  |  1.6. 	|
 | selome   | red        | cat            |     |   |
