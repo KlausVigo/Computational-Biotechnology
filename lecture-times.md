@@ -8,10 +8,10 @@
 | 26.5. | 13-16| 
 | 31.5. | 15:30 - 18:30| 
 | 1.6.  | 13-16| | 
-| 9.6.  | 10:30 - 13:30 | 
+| 9.6.  | 10:30 - 13:30 online | 
 
 
-Computational-Biotechnology/lecture-times.md 
+
 
 
 
